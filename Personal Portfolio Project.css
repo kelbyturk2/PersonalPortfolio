@@ -1,0 +1,334 @@
+.homeheader {
+    text-align: center;
+    color: beige;
+    margin: 10px 0 10px 0;
+    font-size: 40px;
+    font-family: 'Handwriting - Dakota';
+    z-index:0;
+}
+
+.subheader {
+    text-align: center;
+    color: beige;
+    margin: 0 0 10px 0;
+    font-size: 20px;
+    font-family: 'Handwriting - Dakota';
+    z-index: 0;
+}
+
+.resumeheader {
+    text-align: center;
+    color: beige;
+    text-decoration: underline;
+    margin: 10px 0 10px 0;
+    font-size: 40px;
+    font-family: cursive;
+    z-index:0;
+}
+
+.projectheader {
+    text-align: center;
+    color: beige;
+    text-decoration: underline;
+    margin: 10px 0 10px 0;
+    font-size: 40px;
+    font-family: cursive;
+    z-index:0;
+}
+
+.backgroundheader {
+    text-align: center;
+    color: beige;
+    text-decoration: underline;
+    margin: 10px 0 10px 0;
+    font-size: 40px;
+    font-family: cursive;
+    z-index:0;
+}
+
+body {
+    background-image: url(images/profilebackground.jpeg);
+    background-repeat: repeat-y;
+    background-position: top left;
+    margin: none;
+    height: 100%;
+    z-index:-1;
+}
+
+.box-3 {
+    color: white;
+    top: 10px;
+    left: 18px;
+    right: 18px;
+    margin: 10px 0 0 0;
+}
+
+.backgroundheader {
+    color: beige;
+    margin: 10px 0 0 10px;
+}
+
+.whereivelived {
+    color: beige;
+    margin: 0 0 0 20px;
+}
+
+.timelineheader {
+    color: beige;
+    margin: 10px 0 0 20px;
+    font-size: 30px;
+}
+
+.socialmedia {
+    color: beige;
+    margin: 10px 0 0 10px;
+}
+
+.family {
+    color: beige;
+    margin: 20px 0 0 10px;
+    font-size: 30px;
+}
+
+.familymembers {
+    color: beige;
+    margin: 10px 0 0 10px;
+}
+
+.imagelinkedin {
+    height: 100px;
+    width: 100px;
+    margin: 20px 30px 20px 30px;
+    background-image: url("images/linkedinlogo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 25px;
+}
+
+.imagefacebook {
+    height: 100px;
+    width: 100px;
+    margin: 20px 30px 20px 0;
+    background-image: url("images/facebooklogo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 25px;
+}
+
+.imageinstagram {
+    height: 100px;
+    width: 100px;
+    margin: 20px 30px 20px 0;
+    background-image: url("images/instagramlogo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 25px;
+}
+
+.imagefam {
+    margin: 10px 0 20px 30px;
+}
+
+.imagesandiego {
+    margin: 10px 0 20px 30px;
+}
+
+.footer {
+    color: beige;
+    margin: 10px 0 0 10px;
+    text-align: left;
+}
+
+.navbar {
+    height: auto;
+    vertical-align: middle;
+    margin: 0 0 0 0 ;
+}
+
+.biographybutton {
+    background-color: #19141E;
+    height: 40px;
+    border-radius: 10px;
+    color: beige;
+    border-color: beige;
+}
+
+.projectsbutton {
+    background-color: #19141E;
+    height: 40px;
+    border-radius: 10px;
+    color: beige;
+    border-color: beige;
+}
+
+.resumebutton {
+    background-color: #19141E;
+    height: 40px;
+    border-radius: 10px;
+    color: beige;
+    border-color: beige;
+}
+
+.homebutton {
+    background-color: #19141E;
+    height: 40px;
+    border-radius: 10px;
+    color: beige;
+    border-color: beige;
+}
+
+.cumminsbutton {
+    height: 160px;
+    width: 160px;
+    margin: 20px 20px 20px 0;
+    background-image: url("images/cummins_logo_locations1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 0px;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.supplychainbutton1 {
+    height: 160px;
+    width: 160px;
+    margin: 20px 20px 20px 0;
+    background-image: url("images/BYU-Helmet2.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 0px;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.supplychainbutton2 {
+    height: 160px;
+    width: 160px;
+    margin: 20px 20px 20px 0;
+    background-image: url("images/BYU-Helmet2.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 0px;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.supplychainbutton3 {
+    height: 160px;
+    width: 160px;
+    margin: 20px 20px 20px 0;
+    background-image: url("images/BYU-Helmet2.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 0px;
+    color: beige;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.namify1 {
+    height: 160px;
+    width: 160px;
+    margin: 20px 20px 20px 0;
+    background-image: url("images/namify.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 0px;
+    color: beige;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.namify2 {
+    height: 160px;
+    width: 160px;
+    margin: 20px 20px 20px 0;
+    background-image: url("images/namify.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 0px;
+    color: beige;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.namify3 {
+    height: 160px;
+    width: 160px;
+    margin: 20px 20px 20px 0;
+    background-image: url("images/namify.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 0px;
+    color: beige;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.namify4 {
+    height: 160px;
+    width: 160px;
+    margin: 20px 20px 20px 0;
+    background-image: url("images/namify.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 0px;
+    color: beige;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.resumelinkbutton {
+    height: 80px;
+    width: 180px;
+    margin: 20px 20px 20px 0;
+    background: transparent;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 0;
+    border: solid beige 2px;
+    color: beige;
+}
+
+.professionalfiles {
+    color: beige;
+    margin: 10px 0 0 0;
+    font-size: 30px;
+}
+/*
+.resume .biography .projects {
+    display: block;
+    width: 100% !important;
+    height: auto !important;
+}
+-webkit-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+*/
